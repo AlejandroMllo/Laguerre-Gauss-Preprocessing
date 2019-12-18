@@ -4,6 +4,8 @@
 Code implementation of the results presented on *Laguerre-Gauss Preprocessing: Line Profiles
 as Images Features for Aerial Images Classification*.
 
+https://arxiv.org/abs/1912.06729
+
 
 ## Usage
 Using Python (v3.7.3) run the files MLP.py, kNN.py and CNN.py to test the results on the trained
